@@ -1,0 +1,35 @@
+/* *{background:skyblue; color:green; font-size; 15px;}
+h1,h2,h4{background:orange;}
+h1:hover{ background:black; color:white;}
+h1:active{ background:white; color:black;}
+.a{background:url("/2Study/HTML/image/background.PNG");}
+p{background: aqua;}
+p::first-letter {
+	color: red; font-size: 50px; font-weight: bold;
+}
+p::first-line {
+	background: gold;}
+}
+
+li:first-child {color:red;}
+li:last-child {color:blue;}
+li:nth-child(2) {background:yellow;}
+li:nth-last-child(2) {background:gray;}
+
+h3:before{content:url(/2Study/HTML/image/html5.PNG);}
+h3:after{content: "(怨듬��빀�떆�떎)"; font-size: small; color:red}
+
+ul>li:last-child li { background:white;}
+
+input[type="text"],input[type="password"]{background: #CCCCFF;}
+
+h1{background: blue; color:white;}
+h3{background: white;}
+h3#a{background: gray;}
+div h3{background: orange;}
+#a{background: black;} */
+/* body{background-color:lavender; background-image: url("/2Study/HTML/image/on.png"); background-repeat: repeat;} */
+li{
+	font-sixe:5rem;
+	font-familty:arial verdana;
+}
